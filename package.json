@@ -1,6 +1,6 @@
 {
   "name": "use-safe-state",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": "Flavio (nickfla1) Lanternini Strippoli",
   "description": "safely manage functional components state",
