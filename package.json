@@ -26,6 +26,11 @@
     "size": "size-limit",
     "analyze": "size-limit --why"
   },
+  "homepage": "https://github.com/nickfla1/react-use-safe-state",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickfla1/react-use-safe-state.git"
+  },
   "peerDependencies": {
     "react": ">=16"
   },
